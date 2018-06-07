@@ -4,6 +4,9 @@ This is a competition I participated in, in 2016.
 
 https://www.kaggle.com/c/santander-customer-satisfaction
 
+### Author:
+Tania Moulik
+
 ### Contact:
 tania.moulik@gmail.com
 
