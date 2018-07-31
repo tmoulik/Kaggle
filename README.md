@@ -28,4 +28,4 @@ The winning score was 82.9072, while this code scored 82.5870, and secured a pos
 of 1368/5123, in the top 27%
 
 ## How you can contribute:
-Feel free to modify this code and beat the my score! And let me know about it!
+Feel free to modify this code and beat the score! And let me know about it!
