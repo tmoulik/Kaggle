@@ -12,7 +12,8 @@ tania.moulik@gmail.com
 
 ## Description
 In this competition, one had to work with hundreds of anonymized features to predict if a customer 
-is satisfied or dissatisfied with their banking experience at Santander.
+is satisfied or dissatisfied with their banking experience at Santander. This is a binary classification
+problem and xgboost was used to do the predictions on the test data.
 
 ## Code Description
 Code is written in R and has the following parts:
