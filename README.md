@@ -17,11 +17,11 @@ is satisfied or dissatisfied with their banking experience at Santander.
 ## Code Description
 Code is written in R and has the following parts:
 
-Data Cleaning
-Data manipulation
-Variance analysis
-Selection of variables
-Machine learning with xgboost
+* Data Cleaning
+* Data manipulation
+* Variance analysis
+* Selection of variables
+* Machine learning with xgboost
 
 ## My position
 The winning score was 82.9072, while this code scored 82.5870, and secured a position
