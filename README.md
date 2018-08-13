@@ -18,7 +18,7 @@ is satisfied or dissatisfied with their banking experience at Santander.
 Code is written in R and has the following parts:
 
 * Data Cleaning
-* Data manipulation
+* Data wrangling
 * Variance analysis
 * Selection of variables
 * Machine learning with xgboost
